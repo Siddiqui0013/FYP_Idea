@@ -12,3 +12,21 @@
 li{
     margin: 10px;
 }
+
+
+
+@media only screen and (max-width: 600px) {
+    .heading{
+        font-size: 24px;
+        text-align: center;
+    }
+    .name{
+        font-size: 22px;
+text-align: center; 
+margin-left: 0;
+
+  }
+    .features{
+        font-size: 20px;
+    }
+}
